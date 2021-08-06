@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=KHSEXK%20HUB&fontSize=50)
 
 ## 👋Hi   
 [![khsexk's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsexk)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsexk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsexk&count_bg=%2395CE6A&title_bg=%239A9595&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
