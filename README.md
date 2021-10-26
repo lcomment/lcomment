@@ -6,11 +6,11 @@
 * * *
 Eclipse IDE
 >  ##  🛠 Tech Skills 
-* ##### Platform: ![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse%20IDE-666699?style=flat&logo=Eclipse%20IDE&logoColor=6600CC) ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC) ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF) ![IOS Badge](https://img.shields.io/badge/-ios-000000?style=flat&logo=Apple&logoColor=FFFFFF) ![Node.js Badge](https://img.shields.io/badge/-Node.js-660099?style=flat&logo=Node.js) 
+* ##### FrameWork: ![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse%20IDE-666699?style=flat&logo=Eclipse%20IDE&logoColor=6600CC) ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC) ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF) ![IOS Badge](https://img.shields.io/badge/-ios-000000?style=flat&logo=Apple&logoColor=FFFFFF) ![Node.js Badge](https://img.shields.io/badge/-Node.js-660099?style=flat&logo=Node.js) 
 
-* ##### Main Language: ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=FFFFFF) ![Swift Badge](https://img.shields.io/badge/-Swift-FFFFFF?style=flat&logo=Swift)
+* ##### Main Language: ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=FFFFFF) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-005666?style=flat&logo=JavaScript)   
 
-* ##### Sub Language: ![C Badge](https://img.shields.io/badge/-C-000000?style=flat&logo=C) ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FFFFFF) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-005666?style=flat&logo=JavaScript)  
+* ##### Sub Language: ![C Badge](https://img.shields.io/badge/-C-000000?style=flat&logo=C) ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=FFFFFF) ![Swift Badge](https://img.shields.io/badge/-Swift-FFFFFF?style=flat&logo=Swift) ![HTML Badge](https://img.shields.io/badge/-HTML5-ffA500?style=flat&logo=HTML5)
 
 * ##### DataBase: ![MySQL Badge](https://img.shields.io/badge/-MySQL-fbceb1?style=flat&logo=MySQL) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-797979?style=flat&logo=MongoDB)
 
