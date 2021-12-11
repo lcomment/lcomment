@@ -17,6 +17,6 @@ Eclipse IDE
 * ##### Version Control: ![Git Badge](https://img.shields.io/badge/-Git-D4D4D4?style=flat&logo=Git) ![Docker Badge](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=Docker)
 * * *
 > ##  📩 Contact 
-* ##### E-Mail : [![Gmail Badge](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=Gmail)](mailto:kohyunsuk98@gmail.com)
+* ##### E-Mail : [![Gmail Badge](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail)](mailto:kohyunsuk98@gmail.com)
 * ##### Instagram : [![Instagram Badge](https://img.shields.io/badge/-Instagram-FFCCFF?style=flat&logo=Instagram)](https://www.instagram.com/kx__seo1c/)
-* ##### Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://alkorithm.tistory.com/)](https://alkorithm.tistory.com/)
+* ##### Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Blogger-D4D4D4?style=flat-square&logo=Blogger&link=https://alkorithm.tistory.com/)](https://alkorithm.tistory.com/)
