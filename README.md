@@ -4,7 +4,6 @@
 [![khsexk's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsexk)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsexk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsexk&count_bg=%2395CE6A&title_bg=%239A9595&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 * * *
-Eclipse IDE
 >  ##  🛠 Tech Skills 
 * ##### FrameWork: ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF) ![Node.js Badge](https://img.shields.io/badge/-Node.js-F7DF1E?style=flat&logo=Node.js) ![JSP Badge](https://img.shields.io/badge/-JSP-FFA500?style=flat&logo=Java&logoColor=000000) ![Arduino Badge](https://img.shields.io/badge/-Arduino-FFFFFF?style=flat&logo=Arduino)
 
