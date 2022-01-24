@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=KHSEXK%20HUB&fontSize=50)
 
-## 👋Hi   
+# I want to become a Back-End Developer
 [![khsexk's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsexk)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsexk&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsexk&count_bg=%2395CE6A&title_bg=%239A9595&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 * * *
 >  ##  🛠 Tech Skills 
-* ##### FrameWork: ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF) ![Node.js Badge](https://img.shields.io/badge/-Node.js-F7DF1E?style=flat&logo=Node.js) ![JSP Badge](https://img.shields.io/badge/-JSP-FFA500?style=flat&logo=Java&logoColor=000000) ![Arduino Badge](https://img.shields.io/badge/-Arduino-FFFFFF?style=flat&logo=Arduino)
+* ##### FrameWork: ![Spring Badge](https://img.shields.io/badge/-Spring-FFFFFF?style=flat&logo=Spring) ![Node.js Badge](https://img.shields.io/badge/-Node.js-F7DF1E?style=flat&logo=Node.js) ![JSP Badge](https://img.shields.io/badge/-JSP-FFA500?style=flat&logo=Java&logoColor=000000) ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=FFFFFF) ![Arduino Badge](https://img.shields.io/badge/-Arduino-FFFFFF?style=flat&logo=Arduino)
 
 * ##### Main Language: ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=FFFFFF) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-D4D4D4?style=flat&logo=JavaScript)   
 
