@@ -1,6 +1,6 @@
 <div align='center'>
   <h3>
-    <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=KHSEXK%20HUB&fontSize=50">
+    <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=lcOMMENT%20HUB&fontSize=50">
   </h3>
   <h3>
     Introduction
@@ -40,7 +40,7 @@
   <h3>
     📚 khsexk Hub Stats
   </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=khsexk&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=lcomment&show_icons=true&theme=radical">
   </br></br>
   
   <h3>
