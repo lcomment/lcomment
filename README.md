@@ -38,10 +38,14 @@
   </br></br>
   
   <h3>
-    📚 khsexk Hub Stats
+    📚 My Stats
   </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=lcomment&show_icons=true&theme=radical">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lcomment&layout=compact&theme=radical'>
+ &nbsp;
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gustjr9402">
   </br></br>
+  
+  
   
   <h3>
     📩 Contact 📩 
