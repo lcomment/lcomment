@@ -1,6 +1,6 @@
 <div align='center'>
   <h3>
-    <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=lcOMMENT%20HUB&fontSize=50">
+    <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=komment%20HUB&fontSize=50">
   </h3>
   <h3>
     Introduction
