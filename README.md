@@ -52,5 +52,6 @@
   </h3>
   <a href="mailto:kohyunsuk98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EBECF0?style=for-the-badge&logo=Gmail&logoColor=red">
   <a href="https://alkorithm.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.instagram.com/__komment/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red">
   
 </div>
