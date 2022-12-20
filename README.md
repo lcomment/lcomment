@@ -1,57 +1,27 @@
-<div align='center'>
-  <h3>
-    <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=komment%20HUB&fontSize=50">
-  </h3>
-  <h3>
-    Introduction
-  </h3>
-  <h4>
-    🙌 Hi There </br>
-    I'm interested in Back-End development
-  </h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="The+computer+doesn't+lie";"컴퓨터는+거짓말을+하지+않는다고!")](https://git.io/typing-svg)
   
-  <h3>
-    🛠 Tech Skills 
-  </h3>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/c++-FF6384?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </br>
-  
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-333333?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">  
-  <img src="https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=00979D">  
-  </br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/postgresql-87CEEB?style=for-the-badge&logo=postgresql&logoColor=4169E1"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  </br>
-  
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=yellow">
-  </br></br>
-  
-  <h3>
-    📚 My Stats
-  </h3>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lcomment&layout=compact&theme=radical'>
- &nbsp;
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=gustjr9402">
-  </br></br>
+## 🛠 Tech Skills 
+
+**Language**: Java, Javascript, Typescript
+<br>
+**Framework**: Spring Boot, Nest JS
+
+
+## 📚 Timeline
+- 2022.10 ~ 2023.?? : Cafree Project **Spring Boot** Developer 
+- 2022.03 ~ 2022.07 : Prography 7th **Node** Developer
+- 2017.03 ~ 2023.02 : Tech University of Korea → Major in **Computer Engineering**
+
   
   
   
-  <h3>
-    📩 Contact 📩 
-  </h3>
-  <a href="mailto:kohyunsuk98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EBECF0?style=for-the-badge&logo=Gmail&logoColor=red">
-  <a href="https://alkorithm.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=github&logoColor=white">
-  <a href="https://www.instagram.com/__komment/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red">
-  
+## 📩 Contact 📩 
+
+<a href="mailto:kohyunsuk98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=red">
+<a href="https://kortfolio.notion.site/KORTFOLIO-d61c0eff411f4fefa60626377c3994c9" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+<a href="https://www.instagram.com/__komment/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red">
+<div align='right'>
+  <img src='http://mazassumnida.wtf/api/mini/generate_badge?boj=gustjr9402'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+
