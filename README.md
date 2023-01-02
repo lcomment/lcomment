@@ -8,6 +8,7 @@
 
 
 ## 📚 Timeline
+- 2023.01 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;: kt ds SW Engineer
 - 2022.10 ~ 2023.?? : Cafree Project **Spring Boot** Developer 
 - 2022.03 ~ 2022.07 : Prography 7th **Node** Developer
 - 2017.03 ~ 2023.02 : Tech University of Korea → Major in **Computer Engineering**
