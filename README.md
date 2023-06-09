@@ -5,6 +5,7 @@
 **Language**: Java, Javascript, Typescript
 <br>
 **Framework**: Spring Boot, Nest JS
+<br>
 **DevOps**: AWS EC2, S3, Codedeploy, docker, CI(github actions, Jenkins)
 
 
