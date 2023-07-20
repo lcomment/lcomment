@@ -12,7 +12,6 @@
 ## 📚 Timeline
 - 2023.03 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;: Prography 8th **_Spring_** Developer
 - 2023.01 ~ 2023.06 : KT ds SW Engineer → **_ICIS Tr Customer Team_** in Customer Service BU
-- 2022.10 ~ 2023.?? : Cafree Project **_Spring_** Developer 
 - 2022.03 ~ 2022.07 : Prography 7th **_Node_** Developer
 - 2017.03 ~ 2023.02 : Tech University of Korea → Major in **_Computer Engineering_**
 
