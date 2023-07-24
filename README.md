@@ -2,7 +2,7 @@
   
 ## 🛠 Tech Skills 
 
-**Language**: Java, Javascript, Typescript
+**Language**: Java, Kotlin, Javascript, Typescript
 <br>
 **Framework**: Spring Boot, Nest JS
 <br>
