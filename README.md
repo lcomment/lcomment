@@ -10,7 +10,7 @@
 
 
 ## 📚 Timeline
-- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; : AptPlay BackEnd Developer
+- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : AptPlay BackEnd Developer
 - 2023.08 ~ 2023.09 : Freelancer Spring Developer in **_CodeIt_**
 - 2023.03 ~ 2023.08 : Prography 8th **_Spring_** Developer
 - 2023.01 ~ 2023.06 : KT ds SW Engineer → **_ICIS Tr Customer Team_** in Customer Service BU
