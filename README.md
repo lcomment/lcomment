@@ -9,13 +9,27 @@
 **DevOps**: aws, docker, git, cicd, etc...
 
 
-## 📚 Timeline
-- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : AptPlay BackEnd Developer
-- 2023.08 ~ 2023.09 : Freelancer Spring Developer in **_CodeIt_**
-- 2023.03 ~ 2023.08 : Prography 8th **_Spring_** Developer
-- 2023.01 ~ 2023.06 : KT ds SW Engineer → **_ICIS Tr Customer Team_** in Customer Service BU
-- 2022.03 ~ 2022.07 : Prography 7th **_Node_** Developer
-- 2017.03 ~ 2023.02 : Tech University of Korea → Major in **_Computer Engineering_**
+## 🎞️ Timeline
+
+> ### 💼 Career
+
+- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : **AptPlay** BackEnd Developer
+- 2023.01 ~ 2023.06 : **KT ds** SW Engineer (ICIS Tr Customer Team in Customer Service BU)
+
+> ### Freelancer
+
+- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : BackEnd Developer in **OKGO Corp**
+- 2023.08 ~ 2023.09 : BackEnd Developer in **CodeIt**
+
+> ### Activity
+
+- 2023.09 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : Prography 9th Officer (Spring)
+- 2023.03 ~ 2023.08 : Prography 8th Spring Developer
+- 2022.03 ~ 2022.07 : Prography 7th Node Developer
+
+> ### Education
+
+- 2017.03 ~ 2023.02 : Tech University of Korea (Major in Computer Engineering)
 
 <!-- &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; -->
   
