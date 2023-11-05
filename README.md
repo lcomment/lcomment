@@ -36,7 +36,7 @@
   
 ## 📩 Contact 📩 
 
-<a href="mailto:kohyunsuk98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=red">
+<a href="mailto:komment.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=red">
 <a href="https://kortfolio.notion.site/KORTFOLIO-d61c0eff411f4fefa60626377c3994c9" target="_blank"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
 <a href="https://www.instagram.com/__komment/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=red">
 <div align='right'>
