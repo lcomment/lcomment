@@ -16,18 +16,18 @@
 - 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : **AptPlay** BackEnd Developer
 - 2023.01 ~ 2023.06 : **KT ds** SW Engineer (ICIS Tr Customer Team in Customer Service BU)
 
-> ### Freelancer
+> ### 🕊️ Freelancer
 
-- 2023.10 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : BackEnd Developer in **OKGO Corp**
+- 2023.11 ~ 2023.12 : BackEnd Developer in **OKGO Corp**
 - 2023.08 ~ 2023.09 : BackEnd Developer in **CodeIt**
 
-> ### Activity
+> ### 🏃 Activity
 
 - 2023.09 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : Prography 9th Officer (Spring)
 - 2023.03 ~ 2023.08 : Prography 8th Spring Developer
 - 2022.03 ~ 2022.07 : Prography 7th Node Developer
 
-> ### Education
+> ### 🎓 Education
 
 - 2017.03 ~ 2023.02 : Tech University of Korea (Major in Computer Engineering)
 
