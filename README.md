@@ -23,7 +23,7 @@
 
 > ### 🏃 Activity
 
-- 2023.09 ~ &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; : Prography 9th Spring Manager
+- 2023.09 ~ 2024.04 : Prography 9th Spring Manager
 - 2023.03 ~ 2023.08 : Prography 8th Spring Developer
 - 2022.03 ~ 2022.07 : Prography 7th Node Developer
 
